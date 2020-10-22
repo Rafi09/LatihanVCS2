@@ -12,7 +12,9 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 
 * Langkah pertama Download Git,buka website resminya git : [click here](https://git-scm.com)
 
-![git scm](poto/GitScm.png)
+![git scm](poto/GitScm.png) <br>
+
+* Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : *Git Installation Guide* 
 
 
 
