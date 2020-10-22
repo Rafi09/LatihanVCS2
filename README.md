@@ -18,5 +18,8 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 
 ![GitScm](poto/gitscmm.png) <br>
 
+* Setelah installasi selesai, buka software GitBash pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :  <br>
 
+git --version <br>
 
+![GitVersion](poto/gitversion.png) <br>
