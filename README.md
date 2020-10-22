@@ -20,7 +20,7 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 
 * Setelah installasi selesai, buka software GitBash pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :  <br>
 
-` git --version` <br>
+`git --version` <br>
 
 ![GitVersion](poto/gitversion.png) <br>
 
@@ -30,3 +30,13 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 `git config --global user.email "masukan email anda`"
 
 ![gitname](poto/gitname.png) <br>
+
+* Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut : <br>
+
+`git config --global user.name`
+`git config --global user.email` <br>
+
+![gitneme](poto/gitneme.png) <br>
+
+
+
