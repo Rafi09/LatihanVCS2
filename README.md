@@ -63,5 +63,17 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 ![linkcode3](poto/linkcode3.png.png) <br>
 
 
+* Pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut : <br>
+
+`git clone [URL] pada contohnya, saya akan memasukan git clone` <br>
+
+https://github.com/Rafi09/LatihanVCS2 <br>
+
+![gitsatu](poto/gitsatu.png) <br>
+
+
+
+
+
 
 
