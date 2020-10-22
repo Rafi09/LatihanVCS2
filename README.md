@@ -77,6 +77,20 @@ https://github.com/Rafi09/LatihanVCS2 <br>
 ![gittwo](poto/gittwo.png) <br>
 
 
+*  Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save <br>
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini : <br>
+
+`git add.` <br>
+
+![gittree](poto/gittree.png) <br>
+
+
+
+
+
+
+
 
 
 
