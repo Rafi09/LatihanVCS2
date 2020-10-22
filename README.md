@@ -16,5 +16,7 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 
 * Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : *Git Installation Guide* 
 
+![GitScm](poto/gitscmm.png) <br>
+
 
 
