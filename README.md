@@ -99,6 +99,9 @@ https://github.com/Rafi09/LatihanVCS2 <br>
 
 ![gitfive](poto/gitfive.png) <br>
 
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote. <br>
+
+
 
 
 
