@@ -56,6 +56,6 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 
     `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan` <br>
 
-![repisotory2.png](potp/repisotory2.png) <br>
+![repisotory2.png](poto/repisotory2.png) <br>
 
 
