@@ -20,6 +20,13 @@ Repository ini dibuat untuk memenuhi tugas Pertemuan 4-Bahasa Pemrograman
 
 * Setelah installasi selesai, buka software GitBash pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :  <br>
 
-git --version <br>
+` git --version` <br>
 
 ![GitVersion](poto/gitversion.png) <br>
+
+* Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan syntax berikut :  <br>
+
+`git config --global user.name "masukan nama anda`"
+`git config --global user.email "masukan email anda`"
+
+![gitname](poto/gitname.png) <br>
