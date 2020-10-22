@@ -93,6 +93,14 @@ https://github.com/Rafi09/LatihanVCS2 <br>
 ![gitfor](poto/gitfor.png) <br>
 
 
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut : <br>
+
+`git push` <br>
+
+![gitfive](poto/gitfive.png) <br>
+
+
+
 
 
 
