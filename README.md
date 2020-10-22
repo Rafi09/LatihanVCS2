@@ -90,7 +90,7 @@ https://github.com/Rafi09/LatihanVCS2 <br>
 
 `git commit "Update README.md"`
 
-![gitfor](gitfor.png) <br>
+![gitfor](poto/gitfor.png) <br>
 
 
 
